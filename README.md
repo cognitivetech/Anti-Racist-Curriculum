@@ -1,7 +1,7 @@
 # Curating-Whiteness
 Exploring the problem of whiteness 
 
-# Seeing White – Scene on Radio
+## Seeing White – Scene on Radio
 
 * [Seeing White](https://www.sceneonradio.org/seeing-white/) - Scene on Radio
   > Just what is going on with white people? Police shootings of unarmed African Americans. Acts of domestic terrorism by white supremacists. The renewed embrace of raw, undisguised white-identity politics. Unending racial inequity in schools, housing, criminal justice, and hiring. Some of this feels new, but in truth it’s an old story.
