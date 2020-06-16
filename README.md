@@ -1,5 +1,8 @@
-# Curating-Whiteness
-Exploring the problem of whiteness. Resources to help white people see the history and current impacts of systemic racism.
+# Black Lives Matter - White Persons' Curriculum
+
+Exploring the problem of whiteness. 
+
+Resources to help white people see the history and current impacts of systemic racism.
 
 ## Seeing White – Scene on Radio
 
