@@ -1,5 +1,5 @@
 # Curating-Whiteness
-Exploring the problem of whiteness 
+Exploring the problem of whiteness. Resources to help white people see the history and current impacts of systemic racism.
 
 ## Seeing White – Scene on Radio
 
@@ -35,3 +35,231 @@ Exploring the problem of whiteness
     > When it comes to U.S. government programs and support earmarked for the benefit of particular racial groups, history is clear. White folks have received most of the goodies. By John Biewen, with Deena Hayes-Greene of the Racial Equity Institute and recurring series partner Chenjerai Kumanyika. Photo: U.S. soldiers returning home from World War Two the same month ...
   - [S2 E14: Transformation (Seeing White, Part 14)](https://www.sceneonradio.org/episode-45-transformation-seeing-white-part-14/)
     > The concluding episode in our series, Seeing White. An exploration of solutions and responses to America’s deep history of white supremacy by host John Biewen, with Chenjerai Kumanyika, Robin DiAngelo, and William “Sandy” Darity, Jr. Download a transcript of the episode.
+    
+## [Netflix - Black Lives Matter](https://www.netflix.com/browse/genre/81299227?so=su)
+
+[Netflix Introduces a Black Lives Matter Category](https://www.harpersbazaar.com/culture/film-tv/g32837611/black-lives-matter-movies-netflix/)
+
+> As the Black Lives Matter movement continues on, Netflix is highlighting works celebrating Black lives and highlighting the racial injustices they face. As of June 10, the mega streaming platform now has a page for its Black Lives Matter category, which features a range of curated films, TV series, documentaries and stand-ups that focus on "powerful and complex narratives about the Black experience." When users log onto Netflix, before reaching the home page, they'll be greeted with a page called "More than a Moment" that directs to the 40+ movies in the Black Lives Matter collection.
+>
+> "When we say 'Black Lives Matter,' we also mean 'Black storytelling matters,'" the company tweeted with the announcement on Wednesday.
+
+* [#blackAF (2020)](https://www.netflix.com/title/81056700)
+  > Kenya Barris (creator of *Black-ish*) and Rashida Jones star as a wealthy couple juggling family, love, and success in this eight-episode comedy. 
+* [13th (2016)](https://www.netflix.com/title/80091741)
+  > Ava DuVernay’s harrowing, Oscar-nominated documentary exposes and analyzes the flaws in the U.S. prison system that disproportionately afflict the Black community. 
+* [All American (2018-)](https://www.netflix.com/browse/genre/81299227?so=az&jbv=81012998&jbp=2&jbr=0)
+  > The CW series, which is now two seasons in, centers on a promising high school football player who’s recruited from his home grounds in Crenshaw to join a new team in Beverly Hills. 
+* [All Day and a Night (2020)](https://www.netflix.com/browse/genre/81299227?so=az&jbv=80226923&jbp=3&jbr=0)
+  > A young Black man (Ashton Sanders, *Moonlight*) lands in the same jail as his father (Jeffrey Wright, *Westworld*) in this drama by *Black Panther* co-writer Joe Robert Cole, which shines a light on how the carceral system is stacked up against people of color their whole lives. 
+* [American Son (2019)](https://www.netflix.com/browse/genre/81299227?so=az&jbv=81024100&jbp=4&jbr=0)
+  > A mother (Kerry Washington) fights to be taken seriously at a Florida police department as she and her husband (Steven Pasquale) search for their missing son. 
+* [Astronomy Club: The Sketch Show (2019)](https://www.netflix.com/browse/genre/81299227?so=az&jbv=81087498&jbp=5&jbr=0)
+  > A hilarious, irreverent sketch series from the [New York-based comedy and improv group](https://www.astronomyclubcomedy.com/team) of the same name. 
+* [Barry (2016)](https://www.netflix.com/browse/genre/81299227?so=az&jbv=80144803&jbp=0&jbr=1)
+  > Devon Terrell stars as a young Barack Obama finding his footing as a college student in New York. 
+* [Becoming (2020)](https://www.netflix.com/browse/genre/81299227?so=az&jbv=81122487&jbp=1&jbr=1)
+  > This intimate documentary follows Michelle Obama's work and family life as she tours the country promoting her book and transitions into her new life beyond the White House. 
+* [Bobby Kennedy for President (2018)](https://www.netflix.com/browse/genre/81299227?so=az&jbv=80174282&jbp=2&jbr=1)
+  > The docuseries digs into the life and career of former U.S. Attorney General Robert Kennedy, who was a known advocate of the Civil Rights movement. 
+* [Tamborine (2018)](https://www.netflix.com/browse/genre/81299227?so=az&jbv=80167498&jbp=3&jbr=1)
+  > The veteran comedian takes up the mic and tackles relationships, race, and more in his first stand-up special in 10 years. 
+* [Da 5 Bloods (2020)](https://www.netflix.com/browse/genre/81299227?so=az&jbv=81045635&jbp=4&jbr=1)
+  > The latest from Spike Lee is an adventure between four Black army veterans who return to Vietnam and find an unlikely treasure. 
+* [Dear White People (2017-)](https://www.netflix.com/browse/genre/81299227?so=az&jbv=80095698&jbp=5&jbr=1)
+  > Adapted from the film of the same name, the Netflix series focuses on a group of college students of color who challenge the "post-racial" culture at their Ivy League university. 
+* [Get on the Bus (1996)](https://www.netflix.com/browse/genre/81299227?so=az&jbv=60004107&jbp=0&jbr=2)
+  > A group of Black men traverse the country on a bus ride from L.A. to Washington, D.C. to attend the Million Man March. 
+* [Homecoming (2019)](https://www.netflix.com/browse/genre/81299227?so=az&jbv=81013626&jbp=1&jbr=2)
+  > Relive the magic of Beyoncé's 2018 Coachella set with this intimate, behind-the-scenes look of her momentous performance. 
+* [Imperial Dreams (2014)](https://www.netflix.com/browse/genre/81299227?so=az&jbv=70301279&jbp=2&jbr=2)
+  > John Boyega stars as a father who returns home from jail hoping to rebuild his life and family, but his efforts are challenged by a system that works against him. 
+* [Jewel's Catch One (2016)](https://www.netflix.com/browse/genre/81299227?so=az&jbv=80990829&jbp=3&jbr=2)
+  > The documentary delves into the storied L.A. club, Catch One, a historic safe space for the Black LGBTQ community, and its famous owner, Jewel Thais-Williams. 
+* [LA 92 (2017)](https://www.netflix.com/browse/genre/81299227?so=az&jbv=80184131&jbp=4&jbr=2)
+  > A powerful portrayal of the painful history of police brutality and the Los Angeles uprisings following the 1992 acquittal of the four white police officers who beat Black motorist Rodney King. 
+*The film is also [available to watch for free](https://www.youtube.com/watch?v=uaotkHlHJwo) on YouTube.*
+* [Let It Fall: Los Angeles 1982-1992 (2017)](https://www.netflix.com/browse/genre/81299227?so=az&jbv=80183783&jbp=5&jbr=2)
+  > Director and *12 Years a Slave* screenwriter John Ridley's documentary examines the tensions between the Black community and police in years leading up to the Rodney King riots in 1992. 
+* [Malcolm X (1992)](https://www.netflix.com/browse/genre/81299227?so=az&jbv=731091&jbp=0&jbr=3)
+  > Denzel Washington stars as the titular icon in this epic directed by Spike Lee and co-starring Angela Bassett, Delroy Lindo, Albert Hall, and Al Freeman Jr. 
+* [Luke Cage (2016-2018)](https://www.netflix.com/browse/genre/81299227?so=az&jbv=80002537&jbp=1&jbr=3)
+  > Equipped with superhuman strength and near invincibility, Luke Cage is an ex-convict turned Marvel hero protecting his neighborhood from crime. 
+* [Michael Che Matters (2016)](https://www.netflix.com/browse/genre/81299227?so=az&jbv=80049871&jbp=2&jbr=3)
+  > Michael Che steps out from behind the SNL *Weekend Update* desk to the stage for this stand-up tackling racial identity, tensions with the police, gun rights, and other still-relevant political issues. 
+* [Miss Virginia (2019)](https://www.netflix.com/browse/genre/81299227?so=az&jbv=80218872&jbp=3&jbr=3)
+  > Based on a true story, Uzo Aduba stars as a single mother who sparks a movement for change for lower-income families after she struggles to get her son into a private school. 
+* [Moonlight (2016)](https://www.netflix.com/browse/genre/81299227?so=az&jbv=80121348&jbp=4&jbr=3)
+  > Barry Jenkins's Oscar-winning film highlights the coming-of-age experience for a young Black gay man in Miami in three tender and moving chapters. 
+* [Mudbound (2017)](https://www.netflix.com/browse/genre/81299227?so=az&jbv=80175694&jbp=5&jbr=3)
+  > Dee Rees's poignant period drama focuses on two families in Mississippi with differing experiences of racism at the end of World War II. 
+* [Oprah Winfrey Presents: When They See Us Now (2019)](https://www.netflix.com/browse/genre/81299227?so=az&jbv=81147766&jbp=0&jbr=4)
+  > Oprah Winfrey sits down with Exonerated Five (formerly known as the Central Park Five) as well as the creatives and stars of Ava DuVernay's *When They See Us*, which honors their stories. 
+* [Orange Is the New Black (2013-2019)](https://www.netflix.com/browse/genre/81299227?so=az&jbv=70242311&jbp=1&jbr=4)
+  > A PR executive is sent to a women's prison for a crime from her past and makes unlikely connections while navigating life behind bars. 
+* [Pose (2018-)](https://www.netflix.com/browse/genre/81299227?so=az&jbv=80241986&jbp=2&jbr=4)
+  > Ryan Murphy's ode to '80s ballroom culture in New York also features the [largest cast](https://www.harpersbazaar.com/culture/film-tv/a13093459/ryan-murphy-pose-transgender-cast/) of trans actors starring in a scripted TV series. 
+* [Quincy (2018)](https://www.netflix.com/browse/genre/81299227?so=az&jbv=80102952&jbp=3&jbr=4)
+  > This Netflix documentary dives into the work and unparalleled career of music icon Quincy Jones, who's reigned over the industry for decades. 
+* [ReMastered: The Devil at the Crossroads (2018)](https://www.netflix.com/browse/genre/81299227?so=az&jbv=80191049&jbp=4&jbr=4)
+  > The streamer's investigative documentary series shines a light on the mysterious blues musician Robert Johnson, who was said to have made a deal with the devil. 
+* [ReMastered: The Lion's Share (2019)](https://www.netflix.com/browse/genre/81299227?so=az&jbv=80191050&jbp=5&jbr=4)
+  > Another installment of *ReMastered* focuses on Solomon Linda, the original writer of "The Lion Sleeps Tonight," who earned no royalties from the iconic song as he lived in poverty in South Africa. 
+* [ReMastered: The Two Killings of Sam Cooke (2019)](https://www.netflix.com/browse/genre/81299227?so=az&jbv=80191045&jbp=0&jbr=5)
+  > An investigation into the iconic soul singer's death brings up provocative questions about whether his vocal support for the civil rights movement had any connection to his killing. 
+* [ReMastered: Who Killed Jam Master Jay? (2019)](https://www.netflix.com/browse/genre/81299227?so=az&jbv=80191044&jbp=1&jbr=5)
+  > A deeper look at the still-unsolved murder of Run-DMC member Jam Master Jay. 
+* [ReMastered: Who Shot the Sheriff? (2018)](https://www.netflix.com/browse/genre/81299227?so=az&jbv=80191047&jbp=2&jbr=5)
+  > Bob Marley survived an assassination attempt in 1976, but this episode digs into who was responsible for the dangerous plot. 
+* [Rodney King (2017)](https://www.netflix.com/browse/genre/81299227?so=az&jbv=80128715&jbp=3&jbr=5)
+  > Directed by Spike Lee, actor Roger Guenveur Smith delivers a powerful spoken-word, one man show honoring Rodney King's life and legacy. 
+* [School Daze (1988)](https://www.netflix.com/browse/genre/81299227?so=az&jbv=60004109&jbp=4&jbr=5)
+  > Young Laurence Fishburne and Giancarlo Esposito star as Dap and Julian, college students exploring activism and campus culture at their historically Black university. 
+* [See You Yesterday (2019)](https://www.netflix.com/browse/genre/81299227?so=az&jbv=80216758&jbp=5&jbr=5)
+  > After her brother is shot and killed by police, C.J. and her best friend Sebastian use their homemade time-traveling devices to go back in time and save her fallen sibling before it's too late. 
+* [Self-Made: Inspired by the Life of Madam C.J. Walker (2020)](https://www.netflix.com/browse/genre/81299227?so=az&jbv=80202462&jbp=0&jbr=6)
+  > Octavia Spencer plays Madame C.J. Walker, a Black beauty mogul and the first female self-made millionaire. 
+* [Seven Seconds (2018)](https://www.netflix.com/browse/genre/81299227?so=az&jbv=80117555&jbp=1&jbr=6)
+  > This Netflix crime drama uncovers a controversial police cover-up of a teenage boy's death from a hit-and-run where an officer was behind the wheel. 
+* [She's Gotta Have It (1986)](https://www.netflix.com/browse/genre/81299227?so=az&jbv=60034929&jbp=2&jbr=6)
+  > Spike Lee's seminal work puts the spotlight on Brooklyn artist Nola Darling as she juggles three strikingly different romantic interests. 
+* [She's Gotta Have It (2017-2018)](https://www.netflix.com/browse/genre/81299227?so=az&jbv=80117554&jbp=3&jbr=6)
+  > Netflix puts a modern spin on Lee's iconic film with DeWanda Wise as Nola Darling. 
+* [Strong Island (2017)](https://www.netflix.com/browse/genre/81299227?so=az&jbv=80168230&jbp=4&jbr=6)
+  > Filmmaker Yance Ford delves into the pain and injustices following his brother's murder. 
+* [Teach Us All (2017)](https://www.netflix.com/browse/genre/81299227?so=az&jbv=80198423&jbp=5&jbr=6)
+  > This documentary analyzes how far we've come (and how much we've receded) since Brown vs. Board of Education. 
+* [The Black Godfather (2019)](https://www.netflix.com/browse/genre/81299227?so=az&jbv=80173387&jbp=0&jbr=7)
+  > Entertainers and cultural forces muse on the influence and achievements of Clarence Avant, a power player in music, politics, and beyond. 
+* [The Innocence Files (2020)](https://www.netflix.com/browse/genre/81299227?so=az&jbv=80214563&jbp=1&jbr=7)
+  > Highlighting the work of The Innocence Project, this documentary exposes wrongful convictions and the injustices of the prison system. 
+* [They've Gotta Have Us (2018)](https://www.netflix.com/browse/genre/81299227?so=az&jbv=81243942&jbp=2&jbr=7)
+  > Filmmakers, actors, and creatives take a look at the history of Black cinema through the years, from the early stereotypical portrayals to the celebrated and complex narratives of today, and where we go next. 
+* [Time: The Kalief Browder Story (2017)](https://www.netflix.com/browse/genre/81299227?so=az&jbv=80187052&jbp=3&jbr=7)
+  > Kalief Browder, a teen from the Bronx, spent three years in jail at Rikers after being accused of robbery, even though he wasn't ever convicted of a crime. 
+* [Trevor Noah: Son of Patricia (2018)](https://www.netflix.com/browse/genre/81299227?so=az&jbv=80239932&jbp=4&jbr=7)
+  > Noah ditches the Daily Show desk for the stand-up stage in this Netflix special, where he takes on politics, the immigrant experience, and more. 
+* [Trigger Warning with Killer Mike (2019)](https://www.netflix.com/browse/genre/81299227?so=az&jbv=80144442&jbp=5&jbr=7)
+  > In this series, rapper Killer Mike pursues radical changes in various sectors including the economy, education, and religion. 
+* [Uppity: The Willy T. Ribbs Story (2020)](https://www.netflix.com/browse/genre/81299227?so=az&jbv=81232163&jbp=0&jbr=8)
+  > Ribbs, known as the "Jackie Robinson of auto-racing," was the first Black man to race in the Indy 500. 
+* [Wanda Sykes: Not Normal (2019)](https://www.netflix.com/browse/genre/81299227?so=az&jbv=81011598&jbp=1&jbr=8)
+  > Sykes delivers biting social commentary and unfiltered quips in her stand-up special. 
+* [What Happened, Miss Simone? (2015)](https://www.netflix.com/browse/genre/81299227?so=az&jbv=70308063&jbp=2&jbr=8)
+  > An eye-opening portrayal of soul singer Nina Simone as both an artist and activist, featuring intimate archival footage from her life. 
+* [When They See Us (2019)](https://www.netflix.com/browse/genre/81299227?so=az&jbv=80200549&jbp=3&jbr=8)
+  > Ava DuVernay takes on an incredible feat with this limited series, which tells the stories of the Central Park Five, a group of young men who served time for a notorious crime they were wrongly accused of. 
+* [Who Killed Malcolm X? (2020)](https://www.netflix.com/browse/genre/81299227?so=az&jbv=80217478&jbp=4&jbr=8)
+  > Historian and activist Abdur-Rahman Muhammad seeks the truth behind Malcolm X's death in this docuseries. 
+* [Zion: Body of Strength (2018)](https://www.netflix.com/browse/genre/81299227?so=az&jbv=80239831&jbp=5&jbr=8)
+  > This documentary short follows Zion Clark, a teen born without legs and raised in foster care, who inspires by pursuing his passion of competitive wrestling. 
+[https://www.harpersbazaar.com/culture/film-tv/g32837611/black-lives-matter-movies-netflix/](https://www.harpersbazaar.com/culture/film-tv/g32837611/black-lives-matter-movies-netflix/)
+* [#blackAF (2020)](https://www.netflix.com/title/81056700)
+  > Kenya Barris (creator of *Black-ish*) and Rashida Jones star as a wealthy couple juggling family, love, and success in this eight-episode comedy. 
+* [13th (2016)](https://www.netflix.com/title/80091741)
+  > Ava DuVernay’s harrowing, Oscar-nominated documentary exposes and analyzes the flaws in the U.S. prison system that disproportionately afflict the Black community. 
+* [All American (2018-)](https://www.netflix.com/browse/genre/81299227?so=az&jbv=81012998&jbp=2&jbr=0)
+  > The CW series, which is now two seasons in, centers on a promising high school football player who’s recruited from his home grounds in Crenshaw to join a new team in Beverly Hills. 
+* [All Day and a Night (2020)](https://www.netflix.com/browse/genre/81299227?so=az&jbv=80226923&jbp=3&jbr=0)
+  > A young Black man (Ashton Sanders, *Moonlight*) lands in the same jail as his father (Jeffrey Wright, *Westworld*) in this drama by *Black Panther* co-writer Joe Robert Cole, which shines a light on how the carceral system is stacked up against people of color their whole lives. 
+* [American Son (2019)](https://www.netflix.com/browse/genre/81299227?so=az&jbv=81024100&jbp=4&jbr=0)
+  > A mother (Kerry Washington) fights to be taken seriously at a Florida police department as she and her husband (Steven Pasquale) search for their missing son. 
+* [Astronomy Club: The Sketch Show (2019)](https://www.netflix.com/browse/genre/81299227?so=az&jbv=81087498&jbp=5&jbr=0)
+  > A hilarious, irreverent sketch series from the [New York-based comedy and improv group](https://www.astronomyclubcomedy.com/team) of the same name. 
+* [Barry (2016)](https://www.netflix.com/browse/genre/81299227?so=az&jbv=80144803&jbp=0&jbr=1)
+  > Devon Terrell stars as a young Barack Obama finding his footing as a college student in New York. 
+* [Becoming (2020)](https://www.netflix.com/browse/genre/81299227?so=az&jbv=81122487&jbp=1&jbr=1)
+  > This intimate documentary follows Michelle Obama's work and family life as she tours the country promoting her book and transitions into her new life beyond the White House. 
+* [Bobby Kennedy for President (2018)](https://www.netflix.com/browse/genre/81299227?so=az&jbv=80174282&jbp=2&jbr=1)
+  > The docuseries digs into the life and career of former U.S. Attorney General Robert Kennedy, who was a known advocate of the Civil Rights movement. 
+* [Tamborine (2018)](https://www.netflix.com/browse/genre/81299227?so=az&jbv=80167498&jbp=3&jbr=1)
+  > The veteran comedian takes up the mic and tackles relationships, race, and more in his first stand-up special in 10 years. 
+* [Da 5 Bloods (2020)](https://www.netflix.com/browse/genre/81299227?so=az&jbv=81045635&jbp=4&jbr=1)
+  > The latest from Spike Lee is an adventure between four Black army veterans who return to Vietnam and find an unlikely treasure. 
+* [Dear White People (2017-)](https://www.netflix.com/browse/genre/81299227?so=az&jbv=80095698&jbp=5&jbr=1)
+  > Adapted from the film of the same name, the Netflix series focuses on a group of college students of color who challenge the "post-racial" culture at their Ivy League university. 
+* [Get on the Bus (1996)](https://www.netflix.com/browse/genre/81299227?so=az&jbv=60004107&jbp=0&jbr=2)
+  > A group of Black men traverse the country on a bus ride from L.A. to Washington, D.C. to attend the Million Man March. 
+* [Homecoming (2019)](https://www.netflix.com/browse/genre/81299227?so=az&jbv=81013626&jbp=1&jbr=2)
+  > Relive the magic of Beyoncé's 2018 Coachella set with this intimate, behind-the-scenes look of her momentous performance. 
+* [Imperial Dreams (2014)](https://www.netflix.com/browse/genre/81299227?so=az&jbv=70301279&jbp=2&jbr=2)
+  > John Boyega stars as a father who returns home from jail hoping to rebuild his life and family, but his efforts are challenged by a system that works against him. 
+* [Jewel's Catch One (2016)](https://www.netflix.com/browse/genre/81299227?so=az&jbv=80990829&jbp=3&jbr=2)
+  > The documentary delves into the storied L.A. club, Catch One, a historic safe space for the Black LGBTQ community, and its famous owner, Jewel Thais-Williams. 
+* [LA 92 (2017)](https://www.netflix.com/browse/genre/81299227?so=az&jbv=80184131&jbp=4&jbr=2)
+  > A powerful portrayal of the painful history of police brutality and the Los Angeles uprisings following the 1992 acquittal of the four white police officers who beat Black motorist Rodney King. 
+*The film is also [available to watch for free](https://www.youtube.com/watch?v=uaotkHlHJwo) on YouTube.*
+* [Let It Fall: Los Angeles 1982-1992 (2017)](https://www.netflix.com/browse/genre/81299227?so=az&jbv=80183783&jbp=5&jbr=2)
+  > Director and *12 Years a Slave* screenwriter John Ridley's documentary examines the tensions between the Black community and police in years leading up to the Rodney King riots in 1992. 
+* [Malcolm X (1992)](https://www.netflix.com/browse/genre/81299227?so=az&jbv=731091&jbp=0&jbr=3)
+  > Denzel Washington stars as the titular icon in this epic directed by Spike Lee and co-starring Angela Bassett, Delroy Lindo, Albert Hall, and Al Freeman Jr. 
+* [Luke Cage (2016-2018)](https://www.netflix.com/browse/genre/81299227?so=az&jbv=80002537&jbp=1&jbr=3)
+  > Equipped with superhuman strength and near invincibility, Luke Cage is an ex-convict turned Marvel hero protecting his neighborhood from crime. 
+* [Michael Che Matters (2016)](https://www.netflix.com/browse/genre/81299227?so=az&jbv=80049871&jbp=2&jbr=3)
+  > Michael Che steps out from behind the SNL *Weekend Update* desk to the stage for this stand-up tackling racial identity, tensions with the police, gun rights, and other still-relevant political issues. 
+* [Miss Virginia (2019)](https://www.netflix.com/browse/genre/81299227?so=az&jbv=80218872&jbp=3&jbr=3)
+  > Based on a true story, Uzo Aduba stars as a single mother who sparks a movement for change for lower-income families after she struggles to get her son into a private school. 
+* [Moonlight (2016)](https://www.netflix.com/browse/genre/81299227?so=az&jbv=80121348&jbp=4&jbr=3)
+  > Barry Jenkins's Oscar-winning film highlights the coming-of-age experience for a young Black gay man in Miami in three tender and moving chapters. 
+* [Mudbound (2017)](https://www.netflix.com/browse/genre/81299227?so=az&jbv=80175694&jbp=5&jbr=3)
+  > Dee Rees's poignant period drama focuses on two families in Mississippi with differing experiences of racism at the end of World War II. 
+* [Oprah Winfrey Presents: When They See Us Now (2019)](https://www.netflix.com/browse/genre/81299227?so=az&jbv=81147766&jbp=0&jbr=4)
+  > Oprah Winfrey sits down with Exonerated Five (formerly known as the Central Park Five) as well as the creatives and stars of Ava DuVernay's *When They See Us*, which honors their stories. 
+* [Orange Is the New Black (2013-2019)](https://www.netflix.com/browse/genre/81299227?so=az&jbv=70242311&jbp=1&jbr=4)
+  > A PR executive is sent to a women's prison for a crime from her past and makes unlikely connections while navigating life behind bars. 
+* [Pose (2018-)](https://www.netflix.com/browse/genre/81299227?so=az&jbv=80241986&jbp=2&jbr=4)
+  > Ryan Murphy's ode to '80s ballroom culture in New York also features the [largest cast](https://www.harpersbazaar.com/culture/film-tv/a13093459/ryan-murphy-pose-transgender-cast/) of trans actors starring in a scripted TV series. 
+* [Quincy (2018)](https://www.netflix.com/browse/genre/81299227?so=az&jbv=80102952&jbp=3&jbr=4)
+  > This Netflix documentary dives into the work and unparalleled career of music icon Quincy Jones, who's reigned over the industry for decades. 
+* [ReMastered: The Devil at the Crossroads (2018)](https://www.netflix.com/browse/genre/81299227?so=az&jbv=80191049&jbp=4&jbr=4)
+  > The streamer's investigative documentary series shines a light on the mysterious blues musician Robert Johnson, who was said to have made a deal with the devil. 
+* [ReMastered: The Lion's Share (2019)](https://www.netflix.com/browse/genre/81299227?so=az&jbv=80191050&jbp=5&jbr=4)
+  > Another installment of *ReMastered* focuses on Solomon Linda, the original writer of "The Lion Sleeps Tonight," who earned no royalties from the iconic song as he lived in poverty in South Africa. 
+* [ReMastered: The Two Killings of Sam Cooke (2019)](https://www.netflix.com/browse/genre/81299227?so=az&jbv=80191045&jbp=0&jbr=5)
+  > An investigation into the iconic soul singer's death brings up provocative questions about whether his vocal support for the civil rights movement had any connection to his killing. 
+* [ReMastered: Who Killed Jam Master Jay? (2019)](https://www.netflix.com/browse/genre/81299227?so=az&jbv=80191044&jbp=1&jbr=5)
+  > A deeper look at the still-unsolved murder of Run-DMC member Jam Master Jay. 
+* [ReMastered: Who Shot the Sheriff? (2018)](https://www.netflix.com/browse/genre/81299227?so=az&jbv=80191047&jbp=2&jbr=5)
+  > Bob Marley survived an assassination attempt in 1976, but this episode digs into who was responsible for the dangerous plot. 
+* [Rodney King (2017)](https://www.netflix.com/browse/genre/81299227?so=az&jbv=80128715&jbp=3&jbr=5)
+  > Directed by Spike Lee, actor Roger Guenveur Smith delivers a powerful spoken-word, one man show honoring Rodney King's life and legacy. 
+* [School Daze (1988)](https://www.netflix.com/browse/genre/81299227?so=az&jbv=60004109&jbp=4&jbr=5)
+  > Young Laurence Fishburne and Giancarlo Esposito star as Dap and Julian, college students exploring activism and campus culture at their historically Black university. 
+* [See You Yesterday (2019)](https://www.netflix.com/browse/genre/81299227?so=az&jbv=80216758&jbp=5&jbr=5)
+  > After her brother is shot and killed by police, C.J. and her best friend Sebastian use their homemade time-traveling devices to go back in time and save her fallen sibling before it's too late. 
+* [Self-Made: Inspired by the Life of Madam C.J. Walker (2020)](https://www.netflix.com/browse/genre/81299227?so=az&jbv=80202462&jbp=0&jbr=6)
+  > Octavia Spencer plays Madame C.J. Walker, a Black beauty mogul and the first female self-made millionaire. 
+* [Seven Seconds (2018)](https://www.netflix.com/browse/genre/81299227?so=az&jbv=80117555&jbp=1&jbr=6)
+  > This Netflix crime drama uncovers a controversial police cover-up of a teenage boy's death from a hit-and-run where an officer was behind the wheel. 
+* [She's Gotta Have It (1986)](https://www.netflix.com/browse/genre/81299227?so=az&jbv=60034929&jbp=2&jbr=6)
+  > Spike Lee's seminal work puts the spotlight on Brooklyn artist Nola Darling as she juggles three strikingly different romantic interests. 
+* [She's Gotta Have It (2017-2018)](https://www.netflix.com/browse/genre/81299227?so=az&jbv=80117554&jbp=3&jbr=6)
+  > Netflix puts a modern spin on Lee's iconic film with DeWanda Wise as Nola Darling. 
+* [Strong Island (2017)](https://www.netflix.com/browse/genre/81299227?so=az&jbv=80168230&jbp=4&jbr=6)
+  > Filmmaker Yance Ford delves into the pain and injustices following his brother's murder. 
+* [Teach Us All (2017)](https://www.netflix.com/browse/genre/81299227?so=az&jbv=80198423&jbp=5&jbr=6)
+  > This documentary analyzes how far we've come (and how much we've receded) since Brown vs. Board of Education. 
+* [The Black Godfather (2019)](https://www.netflix.com/browse/genre/81299227?so=az&jbv=80173387&jbp=0&jbr=7)
+  > Entertainers and cultural forces muse on the influence and achievements of Clarence Avant, a power player in music, politics, and beyond. 
+* [The Innocence Files (2020)](https://www.netflix.com/browse/genre/81299227?so=az&jbv=80214563&jbp=1&jbr=7)
+  > Highlighting the work of The Innocence Project, this documentary exposes wrongful convictions and the injustices of the prison system. 
+* [They've Gotta Have Us (2018)](https://www.netflix.com/browse/genre/81299227?so=az&jbv=81243942&jbp=2&jbr=7)
+  > Filmmakers, actors, and creatives take a look at the history of Black cinema through the years, from the early stereotypical portrayals to the celebrated and complex narratives of today, and where we go next. 
+* [Time: The Kalief Browder Story (2017)](https://www.netflix.com/browse/genre/81299227?so=az&jbv=80187052&jbp=3&jbr=7)
+  > Kalief Browder, a teen from the Bronx, spent three years in jail at Rikers after being accused of robbery, even though he wasn't ever convicted of a crime. 
+* [Trevor Noah: Son of Patricia (2018)](https://www.netflix.com/browse/genre/81299227?so=az&jbv=80239932&jbp=4&jbr=7)
+  > Noah ditches the Daily Show desk for the stand-up stage in this Netflix special, where he takes on politics, the immigrant experience, and more. 
+* [Trigger Warning with Killer Mike (2019)](https://www.netflix.com/browse/genre/81299227?so=az&jbv=80144442&jbp=5&jbr=7)
+  > In this series, rapper Killer Mike pursues radical changes in various sectors including the economy, education, and religion.
+* [Uppity: The Willy T. Ribbs Story (2020)](https://www.netflix.com/browse/genre/81299227?so=az&jbv=81232163&jbp=0&jbr=8)
+  > Ribbs, known as the "Jackie Robinson of auto-racing," was the first Black man to race in the Indy 500. 
+* [Wanda Sykes: Not Normal (2019)](https://www.netflix.com/browse/genre/81299227?so=az&jbv=81011598&jbp=1&jbr=8)
+  > Sykes delivers biting social commentary and unfiltered quips in her stand-up special. 
+* [What Happened, Miss Simone? (2015)](https://www.netflix.com/browse/genre/81299227?so=az&jbv=70308063&jbp=2&jbr=8)
+  > An eye-opening portrayal of soul singer Nina Simone as both an artist and activist, featuring intimate archival footage from her life. 
+* [When They See Us (2019)](https://www.netflix.com/browse/genre/81299227?so=az&jbv=80200549&jbp=3&jbr=8)
+  > Ava DuVernay takes on an incredible feat with this limited series, which tells the stories of the Central Park Five, a group of young men who served time for a notorious crime they were wrongly accused of. 
+* [Who Killed Malcolm X? (2020)](https://www.netflix.com/browse/genre/81299227?so=az&jbv=80217478&jbp=4&jbr=8)
+  > Historian and activist Abdur-Rahman Muhammad seeks the truth behind Malcolm X's death in this docuseries. 
+* [Zion: Body of Strength (2018)](https://www.netflix.com/browse/genre/81299227?so=az&jbv=80239831&jbp=5&jbr=8)
+  > This documentary short follows Zion Clark, a teen born without legs and raised in foster care, who inspires by pursuing his passion of competitive wrestling. 
