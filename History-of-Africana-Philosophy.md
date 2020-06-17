@@ -6,6 +6,8 @@
 
 ![](https://pbcdn1.podbean.com/imglogo/image-logo/819405/HOPWAG-Africana-logo.png)
 
+## Episodes
+
 *  [HAP 01 - Something Old, Something New - Introducing Africana Philosophy](https://hopwag2.podbean.com/e/hap-01-something-old-something-new-introducing-africana-philosophy/)
   > Chike Jeffers and Peter Adamson kick off the new series by explaining the scope and meaning of "Africana philosophy".
 *  [HAP 02 - It’s Only Human - Philosophy in Prehistoric Africa](https://hopwag2.podbean.com/e/hap-02-it%e2%80%99s-only-human-philosophy-in-prehistoric-africa/)
@@ -114,3 +116,45 @@
   > Alexander Crummell moves from pan-Africanism to reform of African American culture, identifying progressive “civilization” as a means of liberation.
 *  [HAP 54 - Wilson Moses on the Roots of Black Nationalism](https://hopwag2.podbean.com/e/hap-54-wilson-moses-on-the-roots-of-black-nationalism/)
   > Wilson Moses speaks to us about his research into early black notionalism, as represented by Crummell, Douglass, and others.
+
+## Further Reading
+
+* A. Afolayan and T. Falola (eds), The Palgrave Handbook of African Philosophy (New York: 2017).
+* K.A. Appiah, In My Father's House: Africa in the Philosophy of Culture (New York: 1992).
+* M.K. Asante and A.S. Abarry (eds), African Intellectual Heritage: A Book of Sources (Philadelphia: 1996).
+* R.H. Bell, Understanding African Philosophy. A Cross-Cultural Approach to Classical and Contemporary Issues in Africa (New York: 2002).
+* A.B. Bogues, Black Heretics, Black Prophets: Radical Political Intellectuals (New York: 2003).
+* H. Brotz (ed.), African-American Social and Political Thought 1850–1920, revised ed. (New Brunswick: 1992). 
+* P.H. Coetzee and A.P.J. Roux (eds), The African Philosophy Reader. A Text with Readings (New York: 1998).
+* E. Etieyibo (ed.), Method, Substance, and the Future of African Philosophy (Cham: 2018).
+* E.C. Eze (ed.), Postcolonial African Philosophy: A Critical Reader (Cambridge: 1997).
+* E.C. Eze (ed.), African Philosophy. An Anthology (Oxford: 1998).
+* J.L. Garfield and W. Edelglass (eds), The Oxford Handbook of World Philosophy (New York: 2011), part VI (edited by A. Mosley and S.C. Ferguson II).
+* L.R. Gordon (ed.), Existence in Black: An Anthology of Black Existential Philosophy (New York: 1997).
+* L.R. Gordon, An Introduction to Africana Philosophy (New York: 2008).
+* B. Guy-Sheftall, Words of Fire: An Anthology of African-American Feminist Thought (New York: 1995). 
+* B. Hallen, A Short History of African Philosophy (Bloomington: 2002).
+* L. Harris, Philosophy Born of Struggle: Anthology of Afro-American Philosophy from 1917 (Dubuque: 1983).
+* P. Henry, Caliban's Reason: Introducing Afro-Caribbean Philosophy (New York: 2000).
+* F.L. Hord (Mzee Lasana Okpara) and J.S. Lee (eds), I Am Because We Are: Readings in Africana Philosophy, revised ed. (Amherst: 2016).
+* S.O. Imbo, An Introduction to African Philosophy (Lanham: 1998).
+* B.B. Janz, Philosophy in an African Place (Lanham: 2009).
+* C. Jeffers (ed.), Listening to Ourselves: A Multilingual Anthology of African Philosophy (Albany: 2013).
+* T.L. Lott (ed.), African-American Philosophy: Selected Readings (Upper Saddle River: 2002).
+* T.L. Lott and J.P. Pittman (eds), A Companion to African-American Philosophy (Malden: 2003).
+* D.A. Masolo, African Philosophy in Search of Identity (Bloomington: 1994).
+* J. McDade (ed.), The Philosophical Forum: Special Issue: Philosophy and Black Experience 9 (Winter-Spring 1977-1978). 
+* C.W. Mills, Blackness Visible: Essays on Philosophy and Race (Ithaca: 1998).
+* J.A. Montmarquet and W.H. Hardy (eds), Reflections: An Anthology of African American Philosophy (Belmont: 2000).
+* A. Mosley (ed.), African Philosophy: Selected Readings (Englewood Cliffs: 1995).
+* L.T. Outlaw, Jr., On Race and Philosophy (New York: 1996).
+* J.P. Pittman (ed.), African-American Perspectives and Philosophical Traditions (New York: 1996).
+* T. Serequeberhan (ed.), African Philosophy: The Essential Readings (New York: 1991).
+* T. Serequeberhan, Our Heritage: The Past in the Present of African-American and African Existence (Lanham: 2000).
+* I.E. Ukpokolo (ed.), Themes, Issues and Problems in African Philosophy (Cham: 2017).
+* K. Wiredu (ed.) A Companion to African Philosophy (Malden: 2004).
+* G. Yancy (ed.), African-American Philosophers: 17 Conversations (New York: 1998).
+
+[Stanford Encyclopedia of Philosophy: Africana Philosophy](https://plato.stanford.edu/entries/africana/)
+
+[Online bibliography on African philosophy.](https://www.ontology.co/biblio/african-philosophy-biblio.htm)

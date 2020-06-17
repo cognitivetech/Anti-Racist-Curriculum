@@ -1,10 +1,12 @@
 # Black Lives Matter - White Persons' Curriculum
 
-Exploring the problem of whiteness. 
+Exploring the problem of whiteness and helping white people understand the history and present impact of systemic racism.
 
-Resources to help white people see the history and current impacts of systemic racism.
+## Podcasts
 
-## Seeing White – Scene on Radio
+### Seeing White – Scene on Radio
+
+As a white person, listening to this show was transformative for me, and really walked me through a bunch of stuff that I wasn't eager to see. I knew I had to delve deeper, pull my head out of the sand, and find some way to help.
 
 * [Seeing White](https://www.sceneonradio.org/seeing-white/) - Scene on Radio
   > Just what is going on with white people? Police shootings of unarmed African Americans. Acts of domestic terrorism by white supremacists. The renewed embrace of raw, undisguised white-identity politics. Unending racial inequity in schools, housing, criminal justice, and hiring. Some of this feels new, but in truth it’s an old story.
@@ -39,9 +41,51 @@ Resources to help white people see the history and current impacts of systemic r
   - [S2 E14: Transformation (Seeing White, Part 14)](https://www.sceneonradio.org/episode-45-transformation-seeing-white-part-14/)
     > The concluding episode in our series, Seeing White. An exploration of solutions and responses to America’s deep history of white supremacy by host John Biewen, with Chenjerai Kumanyika, Robin DiAngelo, and William “Sandy” Darity, Jr. Download a transcript of the episode.
     
-## [Netflix - Black Lives Matter](https://www.netflix.com/browse/genre/81299227?so=su)
+### [The New York Times - ‎1619](https://podcasts.apple.com/us/podcast/id1476928106)
 
-[Netflix Introduces a Black Lives Matter Category](https://www.harpersbazaar.com/culture/film-tv/g32837611/black-lives-matter-movies-netflix/)
+The Provosts, a family of sugar-cane farmers in Louisiana, had worked the same land for generations. When it became harder and harder to keep hold of that land, June Provost and his wife, Angie, didn’t know why — and then a phone call changed their understanding of everything. In the finale of “1619,” we hear the rest of June and Angie’s story, and its echoes in a past case that led to the largest civil rights settlement in American history.
+
+On today’s episode: June and Angie Provost; Adizah Eghan and Annie Brown, producers for “1619”; and Khalil Gibran Muhammad, a professor of history, race and public policy at Harvard University and the author of “The Condemnation of Blackness."
+
+* [Introducing ‘1619’](https://podcasts.apple.com/us/podcast/introducing-1619/id1476928106?i=1000447111833)
+  > In August of 1619, a ship carrying more than 20 enslaved Africans arrived in the English colony of Virginia. America was not yet America, but this was the moment it began. No aspect of the country that would be formed here has been untouched by the 250 years of slavery that followed. On the 400th anniversary of this fateful moment, it is time to tell the story.
+* [Episode 1: The Fight for a True Democracy](https://podcasts.apple.com/us/podcast/episode-1-the-fight-for-a-true-democracy/id1476928106?i=1000447613003)
+  > America was founded on the ideal of democracy. Black people fought to make it one.
+This episode includes scenes of graphic violence.
+* [Episode 2: The Economy That Slavery Built](https://podcasts.apple.com/us/podcast/episode-2-the-economy-that-slavery-built/id1476928106?i=1000448223649)
+  > The institution of slavery turned a poor, fledgling nation into a financial powerhouse, and the cotton plantation was America’s first big business. Behind the system, and built into it, was the whip. On today’s episode: Matthew Desmond, a contributing writer for The New York Times Magazine and the author of “Evicted,” and Jesmyn Ward, the author of “Sing, Unburied, Sing.”“1619” is a New York Times audio series hosted by Nikole Hannah-Jones. You can find more information about it at nytimes.com/1619podcast.This episode includes scenes of graphic violence.
+* [Episode 3: The Birth of American Music](https://podcasts.apple.com/us/podcast/episode-3-the-birth-of-american-music/id1476928106?i=1000448861139)
+  > Black music, forged in captivity, became the sound of complete artistic freedom. It also became the sound of America. On today’s episode: Wesley Morris, a critic-at-large for The New York Times.
+* [Episode 4: How the Bad Blood Started](https://podcasts.apple.com/us/podcast/episode-4-how-the-bad-blood-started/id1476928106?i=1000449718223)
+  > Black Americans were denied access to doctors and hospitals for decades. From the shadows of this exclusion, they pushed to create the nation’s first federal health care programs. On today’s episode: Jeneen Interlandi, a member of The New York Times’s editorial board and a writer for The Times Magazine, and Yaa Gyasi, the author of “Homegoing.”
+* [Episode 5: The Land of Our Fathers, Part 1](https://podcasts.apple.com/us/podcast/episode-5-the-land-of-our-fathers-part-1/id1476928106?i=1000452394193)
+  > More than a century and a half after the promise of 40 acres and a mule, the story of black land ownership in America remains one of loss and dispossession. June and Angie Provost, who trace their family line to the enslaved workers on Louisiana’s sugar-cane plantations, know this story well. On today’s episode: The Provosts spoke with Adizah Eghan and Annie Brown, producers for “1619.”
+* [Episode 5: The Land of Our Fathers, Part 2](https://podcasts.apple.com/us/podcast/episode-5-the-land-of-our-fathers-part-2/id1476928106?i=1000453203998)
+  > The Provosts, a family of sugar-cane farmers in Louisiana, had worked the same land for generations. When it became harder and harder to keep hold of that land, June Provost and his wife, Angie, didn’t know why — and then a phone call changed their understanding of everything. In the finale of “1619,” we hear the rest of June and Angie’s story, and its echoes in a past case that led to the largest civil rights settlement in American history.
+  > 
+  > On today’s episode: June and Angie Provost; Adizah Eghan and Annie Brown, producers for “1619”; and Khalil Gibran Muhammad, a professor of history, race and public policy at Harvard University and the author of “The Condemnation of Blackness.”
+
+### Assorted Podcasts
+
+* [Player.FM - Blacklivesmatter Podcasts](https://player.fm/podcasts/blacklivesmatter)
+* [Lynching in America](https://lynchinginamerica.eji.org/watch)
+  >  [The Equal Justice Initiative](http://eji.org/) believes we need to change the narrative about race in America in order to advance our collective goal of equal justice for all. As part of this work, we extensively researched the period between the Civil War and World War II, when over 4,000 African Americans were lynched in this country. We published our findings in the report *Lynching in America: Confronting the Legacy of Racial Terror*, the most comprehensive work done on lynching to date. Many racial terror lynchings, however, went unreported and their victims remain unknown.
+* [10 Anti-Racist Podcasts and Talks That Are Helping Me Become a Better Ally](https://www.glamour.com/story/anti-racist-podcasts-and-talks)
+
+#### Canada
+
+* [The Secret Life of Canada](https://www.cbc.ca/radio/secretlifeofcanada/)
+  >  highlights the people, places and stories that probably didn't make it into your high school textbook. Join hosts Leah and Falen as they explore the unauthorized history of a complicated country.
+* [BAD + BITCHY PODCAST](https://www.badandbitchy.com/about-us)
+  > HAS BEEN THE HOME OF INTERSECTIONAL FEMINIST ANALYSIS OF CANADIAN POLITICS AND CULTURE SINCE 2017. CENTRING THE VOICES OF BLACK, INDIGENOUS, AND RACIALIZED WOMEN, BAD + BITCHY BEGAN AS AN OUTLET FOR WOMEN FRUSTRATED WITH THE MISREPRESENTATION OF OUR VOICES IN CANADIAN POLITICS AND MEDIA AND HAS SINCE TURNED INTO A GO-TO SOURCE INTERSECTIONAL FEMINIST ANALYSIS FOR FEMINISTS AND POLITICOS ACROSS THE COUNTRY. OUR PODCAST IS RECORDED ON UNCEDED ALGONQUIN TERRITORY. 
+* [Sandy and Nora](https://sandyandnora.com/)
+  > Sandy and Nora are feminist musicians, gifted program survivors and former choir kids who have thrown away all their talents to become activist political nerds. They are both brilliant and can both be funny. But Nora is funnier.
+
+## Movies
+
+### [Netflix - Black Lives Matter](https://www.netflix.com/browse/genre/81299227?so=su)
+
+[Netflix Introduces a Black Lives Matter Category](https://www.harpersbazaar.com/culture/film-tv/g32837611/black-lives-matter-movies-netflix/) (harpersbazaar)
 
 > As the Black Lives Matter movement continues on, Netflix is highlighting works celebrating Black lives and highlighting the racial injustices they face. As of June 10, the mega streaming platform now has a page for its Black Lives Matter category, which features a range of curated films, TV series, documentaries and stand-ups that focus on "powerful and complex narratives about the Black experience." When users log onto Netflix, before reaching the home page, they'll be greeted with a page called "More than a Moment" that directs to the 40+ movies in the Black Lives Matter collection.
 >
@@ -145,7 +189,7 @@ Resources to help white people see the history and current impacts of systemic r
 * [Trigger Warning with Killer Mike (2019)](https://www.imdb.com/title/tt9426194/)
   > In this series, rapper Killer Mike pursues radical changes in various sectors including the economy, education, and religion. 
 * [Uppity: The Willy T. Ribbs Story (2020)](https://www.imdb.com/title/tt5862338/)
-  > Ribbs, known as the "Jackie Robinson of auto-racing," was the first Black man to race in the Indy 500. 
+  > Ribbs, known as the "Jackie Robinson of auto-racing," was the first Black man to race in the Indy 500.
 * [Wanda Sykes: Not Normal (2019)](https://www.imdb.com/title/tt9169592/)
   > Sykes delivers biting social commentary and unfiltered quips in her stand-up special. 
 * [What Happened, Miss Simone? (2015)](https://www.imdb.com/title/tt4284010/)
@@ -156,3 +200,27 @@ Resources to help white people see the history and current impacts of systemic r
   > Historian and activist Abdur-Rahman Muhammad seeks the truth behind Malcolm X's death in this docuseries. 
 * [Zion: Body of Strength (2018)](https://https://www.imdb.com/title/tt7820962/)
   > This documentary short follows Zion Clark, a teen born without legs and raised in foster care, who inspires by pursuing his passion of competitive wrestling. 
+
+## Additional Resources
+
+* [LINK - Colleague-recommended resources for conversation at a pivotal time](https://link.ucop.edu/2020/06/09/colleague-recommended-resources-for-conversation-at-a-pivotal-time/)
+* [This List Of Books, Films And Podcasts About Racism Is A Start, Not A Panacea](https://www.npr.org/sections/codeswitch/2020/06/06/871023438/this-list-of-books-films-and-podcasts-about-racism-is-a-start-not-a-panacea)
+* [Volume 1, Issue 9: Ally is a Verb](https://theinfophile.substack.com/p/volume-1-issue-9-ally-is-a-verb)
+  * [Volume 1, Resources 9: Absolutely Massive List of Anti-racist Resources for Black Lives Matter Allies](https://theinfophile.substack.com/p/volume-1-resources-9-anti-racist)
+* [Black Lives Matter Reading List for Adults](https://mhpl.bibliocommons.com/list/share/1387030837_mhplstafflists/1647414510_black_lives_matter)
+* [Anti-Racist Reading List for Children](https://mhpl.bibliocommons.com/list/share/1387030837_mhplstafflists/1650458121_antiracist_reading_for_children)
+* [A Curated List Of Resources To Support And Be An Active Ally To Black, Indigenous And People of Colour](https://thecleancollective.com/blogs/eco-and-healthy-living-blog/how-to-be-an-active-ally-to-black-indigenous-and-people-of-colour)
+* [Anti-Racist - Curated Reading and Resource Lists](https://elon.libguides.com/antiracism/lists)
+* [BLM Resources - Diversity at Stanford Medicine - Stanford Medicine](https://med.stanford.edu/diversity/blm-resources.html)
+  - [Justice in June](https://docs.google.com/document/d/1H-Vxs6jEUByXylMS2BjGH1kQ7mEuZnHpPSs1Bpaqmw0/mobilebasic#id.2bwn4teflt1v) (becoming an active ally to the black community)
+  - [Anti-racism resources for white people](https://docs.google.com/document/d/1BRlF2_zhNe86SGgHa6-VlBO-QgirITwCTugSfKie5Fs/mobilebasic): Resource guide compiled by Sarah Sophie Flicker and Alyssa Klein for white people to deepen their anti-racist work
+  - [Confronting White Supremacy: Educational resource shee](https://docs.google.com/document/d/1ZXkW9wMHVG2gJ2MgiYoDGmHKrKFQ7moKS1AMGo_7qyU/edit)t put together by educators to discuss and dismantle white supremacy in the classroom.
+  - [Centering Black Community Needs](https://tinyurl.com/black-community-needs) developed by the Office of Graduate Education for faculty and staff to engage in difficult conversations and better support students, postdocs, and research staff
+  - Office of Faculty Development and Diversity [Black Lives Matter Resources for Faculty](https://med.stanford.edu/facultydiversity/blm-resources.html)
+  - [Resource Hub for Black History and Activism: Google Drive](https://drive.google.com/drive/folders/0Bz011IF2Pu9TUWIxVWxybGJ1Ync) compiled by Charles Preston, filled with books and other important work by Black activists and readings on a range of topics.
+  - [An Essential Reading Guide For Fighting Racism](https://www.buzzfeednews.com/article/ariannarebolini/george-floyd-amy-cooper-antiracist-books-reading-resources)
+  - [Resources by Rachel Cargle](https://linktr.ee/1thatgotawayy)
+  - [Academics for Black Survival and Wellness](https://www.academics4blacklives.com/) was organized by a group of Black counseling psychologists and their colleagues who practice Black allyship. Guided by a Black feminist frame, we hope to foster accountability and growth for non-Black people and enhance healing and wellness for Black people.
+* [Left Bank Books - Black Lives Matter - A Reading List](https://www.left-bank.com/sites/left-bank.com/files/Black%20Lives%20Matter%20Reading%20List_0.pdf)
+* [A collection of resources on social justice](https://www.lib.miamioh.edu/blog/a-collection-of-resources-on-social-justice)
+* [JUNE 9, 2020 BY TERESA HEAD-GORDON LAB Black Lives Matter: Let’s get educated!](https://thglab.berkeley.edu/black-lives-matter-lets-get-educated/)
