@@ -224,3 +224,38 @@ This episode includes scenes of graphic violence.
 * [Left Bank Books - Black Lives Matter - A Reading List](https://www.left-bank.com/sites/left-bank.com/files/Black%20Lives%20Matter%20Reading%20List_0.pdf)
 * [A collection of resources on social justice](https://www.lib.miamioh.edu/blog/a-collection-of-resources-on-social-justice)
 * [JUNE 9, 2020 BY TERESA HEAD-GORDON LAB Black Lives Matter: Let’s get educated!](https://thglab.berkeley.edu/black-lives-matter-lets-get-educated/)
+
+
+### Police Violence 
+
+#### Data and Statistics
+
+* [Police Shootings Database – Killed By Police](https://killedbypolice.net/)
+* [Data World - Police](https://data.world/datasets/police) - There are 544 police datasets available on data.world.
+  * [Fatal Police Shootings](https://data.world/data-society/fatal-police-shootings)
+  * [Police Involved Fatalities](https://data.world/crowdflower/police-involved-fatalities)
+* [Mapping Police Violence](https://mappingpoliceviolence.org/)
+* [BLM: Policing and Incarceration - Statistics and Data](https://libguides.princeton.edu/c.php?g=598338&p=4142165)
+* [SFPD—Officer-Involved Shootings, Suspect-Involved, 2009 – 2019*](https://www.sanfranciscopolice.org/sites/default/files/2020-02/SFPDListOfOISInv20200205.pdf)
+* [The Washington Post is compiling a database of every fatal shooting in the United States by a police officer in the line of duty since January 1, 2015.](https://github.com/washingtonpost/data-police-shootings)
+* [Dataset on gun violence](https://gist.github.com/curran/430efaf8f592d018bd3e) - Originally published in US Mass Shootings, 1982-2015: Data From Mother Jones' Investigation
+* [FATAL ENCOUNTERS DOT ORG SPREADSHEET (See Read me tab)](https://docs.google.com/spreadsheets/d/1dKmaV_JiWcG8XBoRgP8b4e9Eopkpgt7FL7nyspvzAsE/edit#gid=1359780841) (2000-2020 USA)
+* [Copy of FATAL ENCOUNTERS DOT ORG SPREADSHEET (African American Women)](https://docs.google.com/spreadsheets/d/1hYZSfVVOXN4bhkCIQuHE9qwYu2DifTTmLsHy3A5Enj8/edit#gid=0)
+
+#### Say Their Names
+
+* [SAY HER NAME](https://static1.squarespace.com/static/53f20d90e4b0b80451158d8c/t/560c068ee4b0af26f72741df/1443628686535/AAPF_SMN_Brief_Full_singles-min.pdf) - Towards a Gender-Inclusive Analysis of Racialized State Violence RESISTING POLICE BRUTALITY AGAINST BLACK WOMEN 
+  > The August 9th 2014 police killing of 18-year-old Michael Brown sparked a smoldering nationwide movement against police violence and, more broadly, against anti-Black racism. As Mike Brown, Eric Garner, and Tamir Rice have become household names and faces, their stories have become an impetus for public policy debates on the future of policing in America.
+  >
+  > However, 2014 also marked the unjust police killings of a number of Black women, 1 including Gabriella Nevarez, Aura Rosser, Michelle Cusseaux, and Tanisha Anderson. The body count of Black women killed by the police continued to rise in 2015 with the killings of Alexia Christian, Meagan Hockaday, Mya Hall, Janisha Fonville, and Natasha McKenna.
+  > 
+  > The lack of meaningful accountability for the deaths of unarmed Black men also extended to deaths of unarmed Black women and girls in 2015. Just as the officers who killed Mike Brown and Eric Garner escaped punishment for these homicides, officers who killed Black women and girls were not held accountable for their actions. Joseph Weekley, who killed a sleeping, seven-year-old Aiyana Stanley-Jones, escaped prosecution after a jury failed to convict him in his second trial. Dante Servin, an off-duty officer who shot Rekia Boyd in the back of the head, was cleared by a judge of all charges. Other officers faced no charges whatsoever, such as those who killed Mya Hall, a Black transgender woman.
+* [Topless Women Stage #SayHerName Rally Against Perceived Police Brutality](https://time.com/3893668/protest-topless-san-francisco-sayhername-police-brutality-black-women/)
+* ['Say their names': Stories of black Americans killed by police](https://abc7chicago.com/george-floyd-protest-say-her-name-his/6236298/)
+* [Say Her Name Social Media Guide](https://static1.squarespace.com/static/53f20d90e4b0b80451158d8c/t/555e2412e4b0bd5f4da5d3a4/1432232978932/SAYHERNAME+Social+Media+Guide.compressed.pdf)
+
+#### Literature
+* [Violent State: Black Women's Invisible StruggleAgainst Police Violence](https://scholarship.law.ufl.edu/cgi/viewcontent.cgi?article=1828&context=facultypub) - Fall 2017 Michelle S. Jacobs
+  > University of Florida Levin College of Law The theme of this special issue, Women and Law Enforcement, is particularly timely. Incidents of police brutality have reached a new level of public visibility. Though not everyone agrees on whether the use of violence by the police is inappropriate, conversations about police violence are occurring everywhere. An exploration of the topic of Women and Law Enforcement would not be complete without at least one article that puts Black women at the center of the lens of analysis, particularly as it relates to the state-sponsored violence Black women experience at the hands of law enforcement. This Article is about law enforcement’s violence towards Black women specifically. The reader should not feel free to substitute the phrase “women of color” where “Black women” has been written. The Article is not about “women of color.” For decades now, mainstream feminists have attempted to discuss violence against women, while relegating the experiences of Asian women, Native American women, Latinas, and Black women into one category called “women of color.” Scholarship describes the experiences of White women as normative, all other women experiences are subsumed in those. For over twenty years now, the data (when you can find data specifically about non-White women) consistently shows that the communities of non-White women do experience violence, both at the hands of the state, as well as at the hands of intimates, but that violence manifests differently in each community.1
+* [Race and Reasonableness in Police Killings](https://scholarship.law.columbia.edu/cgi/viewcontent.cgi?article=3660&context=faculty_scholarship)
+  > Police officers in the United States have killed over 1000 civilians each year since 2013. The constitutional landscape that regulates these encounters defaults to the judgments of the reasonable police officer at the time of a civilian encounter based on the officer’s assessment of whether threats to their safety or the safety of others requires deadly force. As many of these killings have begun to occur under similar circumstances, scholars have renewed a contentious debate on whether police disproportionately use deadly force against African Americans and other nonwhite civilians and whether such killings reflect racial bias. We analyze data on 3933 killings to examine this intersection of race and reasonableness in police killings. First, we describe the objective circumstances and interactions of police killings and map those event characteristics to the elements of reasonableness articulated in case law. Second, we assess whether inherently vague constitutional regulation of lethal force is applied differently by officers depending on the civilian’s race, giving rise to a disproportionate rate of deaths among racial and ethnic minority groups. We then assess the prospects for remediation of racialized police killings by testing the effects of an existing evidence-based training curricula designed to reduce police use of deadly force towards persons experiencing mental illness
