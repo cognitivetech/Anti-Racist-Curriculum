@@ -1,4 +1,4 @@
-# Black Lives Matter - Aspiring Allies - Anti-Racist Curriculum
+# Black Lives Matter - Allies Anti-Racist Curriculum
 
 Exploring the problem of whiteness and helping white people understand the history and present impact of systemic racism.
 
