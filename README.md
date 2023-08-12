@@ -28,8 +28,19 @@ For my own self-education and hopefully helpful for others challenging their own
   >
   > Intersectionality is the acknowledgement that everyone has their own unique experiences of discrimination and oppression and we must consider everything and anything that can marginalise people – gender, race, class, sexual orientation, physical ability, etc. First coined by Professor Kimberlé Crenshaw back in 1989, intersectionality was added to the Oxford Dictionary in 2015 with its importance increasingly being recognised in the world of women’s rights.
   > ![](https://i.imgur.com/WXBzDmj.png)
+
+### Colorism
+
 * [“What’s ‘Colorism’?”](https://www.learningforjustice.org/magazine/fall-2015/whats-colorism) Learning for Justice
   > Any response to this question is complicated due to the deep legacy and influence of skin-color preference in the United States and in other parts of the world. Within-group and between-group prejudice in favor of lighter skin color—what feminist author Alice Walker calls “colorism”—is a global cultural practice. Emerging throughout European colonial and imperial history, colorism is prevalent in countries as distant as Brazil and India. Its legacy is evident in forums as public as the television and movie industries, which prefer to cast light-skinned people of color, and as private as the internalized thoughts of some Latino, South-Asian or black parents who hope their babies grow up light-skinned so their lives will be “just a little bit easier.”
+* [Colorism: Understanding Skintone Discrimination](https://www.verywellmind.com/what-is-colorism-5077380) VeryWellMind
+  > Colorism finds its roots in racism because, without racism, someone’s value and perceived superiority wouldn't be based on the color of their skin.
+  > 
+  > Colleen Campbell, a Ph.D. candidate in Sociology and African Studies at Princeton University noted, "When we think of racism in the U.S. especially, we think of anti-Black attitudes or institutional processes that entrench whiteness at the top of the social hierarchy."
+  > 
+  > Furthermore, the preference for lighter skin tones is a result of slavery and since then there are many methods people have used and still use to determine someone's value in society.
+* [The Difference Between Racism and Colorism](https://time.com/4512430/colorism-in-america/) Time
+  > In the 21st century, as America becomes less white and the multiracial community—formed by interracial unions and immigration—continues to expand, color will be even more significant than race in both public and private interactions. Why? Because a person’s skin color is an irrefutable visual fact that is impossible to hide, whereas race is a constructed, quasi-scientific classification that is often only visible on a government form.
 
 ## Critical Race Theory
 
