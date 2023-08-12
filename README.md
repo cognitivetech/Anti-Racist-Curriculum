@@ -20,15 +20,7 @@ For my own self-education and hopefully helpful for others challenging their own
 \*Implicit Bias Tests related to: Disability, Native Americans, Weight, Religion, Jewish, Age, Weapons, Sexuality, Sender and Science, President, Skin, Trans, Race, Asianamer, Hispanic, Gendercareer, Arab People
   > The mission of Project Implicit is to educate the public about bias and to provide a “virtual laboratory” for collecting data on the internet. Project Implicit scientists produce high-impact research that forms the basis of our scientific knowledge about bias and disparities. 
 
-
 ## Related Concepts
-
-* [Intersectionality 101: what is it and why is it important?](https://www.womankind.org.uk/intersectionality-101-what-is-it-and-why-is-it-important/) Womankind
-  >  Put simply, intersectionality is the concept that all oppression is linked. More explicitly, the Oxford Dictionary defines intersectionality as “**_the interconnected nature of social categorisations such as race, class, and gender, regarded as creating overlapping and interdependent systems of discrimination or disadvantage_**”.
-  >
-  > Intersectionality is the acknowledgement that everyone has their own unique experiences of discrimination and oppression and we must consider everything and anything that can marginalise people – gender, race, class, sexual orientation, physical ability, etc. First coined by Professor Kimberlé Crenshaw back in 1989, intersectionality was added to the Oxford Dictionary in 2015 with its importance increasingly being recognised in the world of women’s rights.
-  > ![](https://i.imgur.com/WXBzDmj.png)
-
 ### Colorism
 
 * [“What’s ‘Colorism’?”](https://www.learningforjustice.org/magazine/fall-2015/whats-colorism) Learning for Justice
@@ -42,7 +34,29 @@ For my own self-education and hopefully helpful for others challenging their own
 * [The Difference Between Racism and Colorism](https://time.com/4512430/colorism-in-america/) Time
   > In the 21st century, as America becomes less white and the multiracial community—formed by interracial unions and immigration—continues to expand, color will be even more significant than race in both public and private interactions. Why? Because a person’s skin color is an irrefutable visual fact that is impossible to hide, whereas race is a constructed, quasi-scientific classification that is often only visible on a government form.
 
-## Critical Race Theory
+### Intersectionality
+* [Intersectionality 101: what is it and why is it important?](https://www.womankind.org.uk/intersectionality-101-what-is-it-and-why-is-it-important/) Womankind
+  >  Put simply, intersectionality is the concept that all oppression is linked. More explicitly, the Oxford Dictionary defines intersectionality as “**_the interconnected nature of social categorisations such as race, class, and gender, regarded as creating overlapping and interdependent systems of discrimination or disadvantage_**”.
+  >
+  > Intersectionality is the acknowledgement that everyone has their own unique experiences of discrimination and oppression and we must consider everything and anything that can marginalise people – gender, race, class, sexual orientation, physical ability, etc. First coined by Professor Kimberlé Crenshaw back in 1989, intersectionality was added to the Oxford Dictionary in 2015 with its importance increasingly being recognised in the world of women’s rights.
+  > ![](https://i.imgur.com/WXBzDmj.png)
+* [How Colorism Affects Women at Work](https://hbr.org/2023/04/how-colorism-affects-women-at-work) Harvard Business Review
+  > Colorism is an insidious, globally prevalent bias that deeply impacts the lives and livelihoods of darker-skinned women. The term refers not only to the preference for lighter skin between different racial and ethnic communities, but also within those communities. Colorism is an enduring vestige of colonialism and white dominance around the globe and disproportionately harms women of color. Inclusive leaders must work to prevent women of color from experiencing colorism at work — and make sure they don’t leave. The author presents three ways to disrupt colorism in the workplace.
+
+### Cultural Appropriation
+* [Cultural Appropriation](https://en.wikipedia.org/wiki/Cultural_appropriation) Wikipedia
+  > Cultural appropriation is the inappropriate or unacknowledged adoption of an element or elements of one culture or identity by members of another culture or identity. This can be especially controversial when members of a dominant culture appropriate from minority cultures.
+* [Cultural Appropriation vs. Cultural Appreciation: Where is the line?](https://floridaseminoletourism.com/cultural-appropriation-vs-cultural-appreciation/) Florida Seminole Tourism
+  > But, this definition can go further than the surface level. Originally, the term was mostly used in academic spaces to talk about colonialism and power dynamics between majority and minority groups. According to Rodgers (2006) *there are four types of cultural appropriation: exchange, dominance, exploitation, and transculturation*. In this blog post, **_we will talk about the form we most identify with as cultural appropriation– exploitation_**.
+  > 
+  > The term ‘cultural appropriation’ has made it out of academia and into public discourse. When you hear about cultural appropriation today, it is most likely exploitation. It is “the appropriation of elements of a subordinate culture without substantive reciprocity, permission, and/or compensation” (Rodgers 2006).  Someone from another culture takes elements of a subordinate, marginalized, or colonized culture. Power dynamics also come into play. Traits of the subordinate culture are “cherry picked” by someone of a dominant culture. Often, the appropriation serves to reinforce the established power dynamic and ends up harming the marginalized culture.
+* [Appropriation and Appreciation: What's the Difference?](https://www.edi.nih.gov/blog/communities/appropriation-and-appreciation-whats-difference) Ashley White, National Institute of Health
+  > Context is critical because it allows us to determine if the intention behind adopting an aspect of a culture is meaningful. While learning about a cultural activity, event, meal, garb, or other cultural aspects from a person within the culture, who enthusiastically agrees to teach you, is a great way to connect and appreciate a culture, buying or using iterations of cultural items (like fast-fashion clothing, furniture, housewares, Halloween costumes, etc.) that give no credit or compensation to the original creator(s) is a form of appropriation. 
+
+## Academic
+### Critical Race Theory
+
+*Branches of Critical Race Theory: Latinx, Asian, Tribal, Black, Intersectional (with Sexuality, Gender, Income, other Ethnicities)*
 
 * [Critical Race Theory](https://en.wikipedia.org/wiki/Critical_race_theory) Wikipedia
   > CRT began in the United States in the post–civil rights era, as 1960s landmark civil rights laws were being eroded and schools were being re-segregated. With racial inequalities persisting even after civil rights legislation and color-blind laws were enacted, CRT scholars in the 1970s and 1980s began reworking and expanding critical legal studies (CLS) theories on class, economic structure, and the law to examine the role of U.S. law in perpetuating racism.
@@ -57,16 +71,13 @@ For my own self-education and hopefully helpful for others challenging their own
 * [Book] [Critical Race Theory: An Introduction, Second Edition](https://www.jstor.org/stable/j.ctt9qg9h2) Richard Delgado, Jean Stefancic
   > The critical race theory (CRT) movement is a collection of activists and scholars interested in studying and transforming the relationship among race, racism, and power. The movement considers many of the same issues that conventional civil rights and ethnic studies discourses take up, but places them in a broader perspective that includes economics, history, context, group- and self-interest, and even feelings and the unconscious. Unlike traditional civil rights, which stresses incrementalism and step-by-step progress, critical race theory questions the very foundations of the liberal order, including equality theory, legal reasoning, Enlightenment rationalism, and neutral principles of constitutional law.
 
-Branches of Critical Race Theory: Latinx, Asian, Tribal, Black, Intersectional (with Sexuality, Gender, Income, other Ethnicities)
-
-## Literature
+### Literature
 * [Violent State: Black Women's Invisible StruggleAgainst Police Violence](https://scholarship.law.ufl.edu/cgi/viewcontent.cgi?article=1828&context=facultypub) - Fall 2017 Michelle S. Jacobs
   > University of Florida Levin College of Law The theme of this special issue, Women and Law Enforcement, is particularly timely. Incidents of police brutality have reached a new level of public visibility. Though not everyone agrees on whether the use of violence by the police is inappropriate, conversations about police violence are occurring everywhere. An exploration of the topic of Women and Law Enforcement would not be complete without at least one article that puts Black women at the center of the lens of analysis, particularly as it relates to the state-sponsored violence Black women experience at the hands of law enforcement. This Article is about law enforcement’s violence towards Black women specifically. The reader should not feel free to substitute the phrase “women of color” where “Black women” has been written. The Article is not about “women of color.” For decades now, mainstream feminists have attempted to discuss violence against women, while relegating the experiences of Asian women, Native American women, Latinas, and Black women into one category called “women of color.” Scholarship describes the experiences of White women as normative, all other women experiences are subsumed in those. For over twenty years now, the data (when you can find data specifically about non-White women) consistently shows that the communities of non-White women do experience violence, both at the hands of the state, as well as at the hands of intimates, but that violence manifests differently in each community.1
 * [Race and Reasonableness in Police Killings](https://scholarship.law.columbia.edu/cgi/viewcontent.cgi?article=3660&context=faculty_scholarship)
   > Police officers in the United States have killed over 1000 civilians each year since 2013. The constitutional landscape that regulates these encounters defaults to the judgments of the reasonable police officer at the time of a civilian encounter based on the officer’s assessment of whether threats to their safety or the safety of others requires deadly force. As many of these killings have begun to occur under similar circumstances, scholars have renewed a contentious debate on whether police disproportionately use deadly force against African Americans and other nonwhite civilians and whether such killings reflect racial bias. We analyze data on 3933 killings to examine this intersection of race and reasonableness in police killings. First, we describe the objective circumstances and interactions of police killings and map those event characteristics to the elements of reasonableness articulated in case law. Second, we assess whether inherently vague constitutional regulation of lethal force is applied differently by officers depending on the civilian’s race, giving rise to a disproportionate rate of deaths among racial and ethnic minority groups. We then assess the prospects for remediation of racialized police killings by testing the effects of an existing evidence-based training curricula designed to reduce police use of deadly force towards persons experiencing mental illness
 
 ## Resources
-
 * [Colleague-recommended resources for conversation at a pivotal time](https://link.ucop.edu/2020/06/09/colleague-recommended-resources-for-conversation-at-a-pivotal-time/) 2020-06-09 LINK University of California
   > Over the past two weeks, UCOP staff have gathered to process current events and worked to foster open dialogue about race and racial experiences in order to better understand one another’s perspectives, support each other and build lasting relationships built on mutual respect.
 * [BLM Resources - Diversity at Stanford Medicine - Stanford Medicine](https://med.stanford.edu/diversity/anti-racism-resources.html)
@@ -81,7 +92,6 @@ Branches of Critical Race Theory: Latinx, Asian, Tribal, Black, Intersectional (
 * [Black Lives Matter: Let’s get educated!](https://thglab.berkeley.edu/black-lives-matter-lets-get-educated/) 2020-06-09 TERESA HEAD, GORDON LAB 
 
 ## Police Violence 
-
 * [Police Shootings Database – Killed By Police](https://killedbypolice.net/)
 * [Data World - Police](https://data.world/datasets/police) - There are 544 police datasets available on data.world.
   * [Fatal Police Shootings](https://data.world/data-society/fatal-police-shootings)
@@ -95,7 +105,6 @@ Branches of Critical Race Theory: Latinx, Asian, Tribal, Black, Intersectional (
 * [Copy of FATAL ENCOUNTERS DOT ORG SPREADSHEET (African American Women)](https://docs.google.com/spreadsheets/d/1hYZSfVVOXN4bhkCIQuHE9qwYu2DifTTmLsHy3A5Enj8/edit#gid=0)
 
 ### Say Their Names
-
 * [SAY HER NAME](https://static1.squarespace.com/static/53f20d90e4b0b80451158d8c/t/560c068ee4b0af26f72741df/1443628686535/AAPF_SMN_Brief_Full_singles-min.pdf) - Towards a Gender-Inclusive Analysis of Racialized State Violence RESISTING POLICE BRUTALITY AGAINST BLACK WOMEN 
   > The August 9th 2014 police killing of 18-year-old Michael Brown sparked a smoldering nationwide movement against police violence and, more broadly, against anti-Black racism. As Mike Brown, Eric Garner, and Tamir Rice have become household names and faces, their stories have become an impetus for public policy debates on the future of policing in America.
   >
