@@ -1,16 +1,31 @@
-# Challenging Racism begins with Shedding Ignorance: Antiracist curriculum.
+# Challenging Racism begins with the Shedding of Ignorance.
 
-For my own self-education and hopefully helpful for others challenging their own biases and ignorance around race.
+**An Anti-racist curriculum**
+
+Exploration of racism, primarily from an american perspective.
 
 ## Types of Racism
+
 * [The Four Types of Racism](https://unitedwaynca.org/blog/levels-of-racism/)- United Way of the National Capital Area
-  - Internalized or Personal Racism
-  - Interpersonal Racism
-  - Institutional Racism
-  - Structural Racism
+  - **Internalized or Personal Racism** - a person’s private beliefs, prejudices and ideas
+  - **Interpersonal Racism** - the expression of racism on an individual level, primarily through interactions between individuals
+  - **Institutional Racism** - policies and processes are deeply rooted in America’s history
+  - **Structural Racism** - laws, rules or official policies that support a continued unfair advantage to some people and unfair or harmful treatment of others based on race
 * [Bias: Implicit and Explicit](https://www.atrainceu.com/content/1-bias-implicit-and-explicit) ATrain Education
-  - Implicit bias is an attitude or internalized stereotype that affects an individual’s perception, action, or decision-making in an unconscious manner.
-  - Explicit or conscious bias occurs when we are aware of our prejudices and attitudes toward certain groups.
+  - **Implicit bias** is an attitude or internalized stereotype that affects an individual’s perception, action, or decision-making in an unconscious manner.
+  - **Explicit or conscious bias** occurs when we are aware of our prejudices and attitudes toward certain groups.
+
+### Who can be racist?
+
+* [Who Can Be ‘Racist’?](https://www.thecrimson.com/column/between-the-lines/article/2018/8/10/gao-who-can-be-racist/) 2018-08-10 Michelle I. Gao, Crimson Opinion Writer
+  - One camp subscribes to the standard dictionary definition: racism is “prejudice, discrimination, or antagonism directed against someone of a different race based on the belief that one’s own race is superior.”
+  - Another camp thinks primarily of institutional racism and factors in a person’s power to use their racist beliefs against others. 
+* [Can blacks be racist?](https://jimcrowmuseum.ferris.edu/question/2009/march.htm) Jim Crow Museum
+  > The answer, of course, will depend on how you define racism. If you define it as:
+  > - “prejudice against or hatred toward another race,” then the answer is yes. 
+  > - “the belief that race is the primary determinant of human traits and capacities and that racial differences produce an inherent superiority of a particular race,” the answer is yes. 
+  > - “prejudice and discrimination rooted in race-based loathing,” then the answer is, again, yes. 
+  > - “a system of group privilege by those who have a disproportionate share of society’s power, prestige, property, and privilege,” then the answer is no.
 
 ### Implicit Bias
 * [How to Stop the Racist in You](https://greatergood.berkeley.edu/article/item/how_to_stop_the_racist_in_you) Greater Good Magazine, Berkely
@@ -22,7 +37,6 @@ For my own self-education and hopefully helpful for others challenging their own
 
 ## Related Concepts
 ### Colorism
-
 * [“What’s ‘Colorism’?”](https://www.learningforjustice.org/magazine/fall-2015/whats-colorism) Learning for Justice
   > Any response to this question is complicated due to the deep legacy and influence of skin-color preference in the United States and in other parts of the world. Within-group and between-group prejudice in favor of lighter skin color—what feminist author Alice Walker calls “colorism”—is a global cultural practice. Emerging throughout European colonial and imperial history, colorism is prevalent in countries as distant as Brazil and India. Its legacy is evident in forums as public as the television and movie industries, which prefer to cast light-skinned people of color, and as private as the internalized thoughts of some Latino, South-Asian or black parents who hope their babies grow up light-skinned so their lives will be “just a little bit easier.”
 * [Colorism: Understanding Skintone Discrimination](https://www.verywellmind.com/what-is-colorism-5077380) VeryWellMind
